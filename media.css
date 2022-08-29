@@ -1,0 +1,936 @@
+@media screen and (max-width: 575.98px) {
+
+    .nav-bar .nav-list{
+        display: none;
+    }
+    .super-main .container .main h2{
+        font-size: 3rem;
+    
+    }
+    .about .container{
+        width: 90%;
+        flex-direction: column;
+        margin: 3.125rem auto;
+        }
+    .about .about-one{
+        width: 100%;
+    }
+    .about .about-one h2 {
+        font-size: 5rem;
+    }
+    .about .about-one p {
+      top: 20%;
+    }
+    .about .about-one .hr-line{
+        top: 80%;
+        width: 15%;
+    }
+    .about .about-two , .about .about-three {
+    width: 100%;
+    padding: 0;
+    }
+    .about .container .sub-container{
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    .about .about-foure , .about .about-five {
+    width: 50%;
+    border-bottom: 0.1px dotted rgba(108,117,125,0.25);
+    }
+    .about .about-six , .about .about-seven{
+     width: 50%;
+    border-top: 0.1px dotted rgba(108,117,125,0.25);
+    margin-top: 0;
+    }
+    .about .about-six{
+    border-left: none;
+    }
+    .about .sub-container .numb-hed{
+    font-size: 2.5rem;
+    }
+    
+    .services .container{
+        width: 90%;
+        flex-direction: column;
+        margin: 3.125rem auto;
+    
+     }
+    .services .about-one{
+        width: 100%;
+    }
+    .services .about-one h2 {
+        font-size: 5rem;
+    }
+    .services .about-one p {
+      top: 20%;
+    }
+    .services .about-one .hr-line{
+        top: 80%;
+        width: 15%;
+    }
+    .services .container .itemx {
+        width: 100%;
+        justify-content: space-between;
+    }
+    .services .container .itemx .item-icon{
+    width: 70px;
+    height: 70px;
+    }
+    .services .container .itemx .item-data{
+        width: 80%;
+    }
+    
+    .summary .container{
+        width: 90%;
+        flex-direction: column;
+        margin: 3.125rem auto;
+    
+     }
+    .summary .about-one{
+        width: 100%;
+    }
+    .summary .about-one h2 {
+        font-size: 5rem;
+    }
+    .summary .about-one p {
+      top: 25%;
+    }
+    .summary .about-one .hr-line{
+        top: 80%;
+        width: 15%;
+    }
+    .summary .container .edu-exp{
+    
+        flex-direction: column;
+    }
+    .summary .container .resm-edu , .summary .container .resm-exp{
+        width: 100%;
+    }
+    .summary .container .skills{
+        flex-direction: column;
+    }
+    .summary .container .skills .skill-list {
+        width: 100%;
+    
+    }
+    
+    .portfolio .container{
+        width: 90%;
+        flex-direction: column;
+        margin: 3.125rem auto;
+    
+     }
+    .portfolio .about-one{
+        width: 100%;
+    }
+    .portfolio .about-one h2 {
+        font-size: 5rem;
+    }
+    .portfolio .about-one p {
+      top: 25%;
+    }
+    .portfolio .about-one .hr-line{
+        top: 75%;
+        width: 16%;
+    }
+    .portfolio .container .work{
+    flex-direction: column;
+    }
+    .portfolio .container .work .workx{
+        width: 100%;
+    }
+    
+    
+    .client .container{
+        width: 90%;
+        flex-direction: column;
+        margin: 3.125rem auto;
+    
+     }
+    .client .about-one{
+        width: 100%;
+    }
+    .client .about-one h2 {
+        font-size: 5rem;
+    }
+    .client .about-one p {
+      top: 25%;
+    }
+    .client .about-one .hr-line{
+        top: 75%;
+        width: 16%;
+    }
+    
+    .client .container .client-op .clientx{
+        width: 100%;
+    }
+    .client .container .client-op .client-two{
+    display: none;
+    }
+    .client .container .circle{
+        width: 110px;
+        
+    }
+    .client .container .circle .gy-none {
+        display: block;
+        transform: translateY(0%);
+    }
+    
+    
+    .contact .container{
+        width: 90%;
+        flex-direction: column;
+        margin: 3.125rem auto;
+    
+     }
+    .contact .about-one{
+        width: 100%;
+    }
+    .contact .about-one h2 {
+        font-size: 5rem;
+    }
+    .contact .about-one p {
+      top: 25%;
+    }
+    .contact .about-one .hr-line{
+        top: 75%;
+        width: 20%;
+    }
+    
+     .contact .container .contact-way .address{
+    width: 50%;
+    order: 1;
+    margin: auto;
+    text-align: center;
+    }
+    .contact .container .contact-way .send-form{
+    width: 100%;
+    order:0 ;
+    text-align: center;
+    }
+    .contact .container .contact-way .send-form .in-text{
+        width: 100%;
+    }
+    .contact .container .contact-way .send-form .e-name{
+    margin-top: 1.5rem;
+    }
+    .contact-way .address ul{
+    margin: 0rem auto auto;
+    }
+    .copy-end .container {
+        width: 90%;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .copy-end .container .right {
+        width: 100%;
+        margin-bottom: 1rem;
+        text-align: center;
+       
+    }
+    .copy-end .container .policy {
+        width: 100%;
+    justify-content: center;
+    }
+    .copy-end .container .policy .col-bord{
+        height: 20px;
+    }
+    
+    }
+    /* *********************************************** */
+    @media screen and (min-width: 576px) and (max-width: 767.98px){
+    
+        .nav-bar .nav-list{
+            display: none;
+        }
+        .super-main .container .main h2{
+            font-size: 3rem;
+        
+        }
+        .about .container{
+            width: 80%;
+            flex-direction: column;
+            margin: 3.125rem auto;
+            }
+        .about .about-one{
+            width: 100%;
+        }
+        .about .about-one h2 {
+            font-size: 6rem;
+        }
+        .about .about-one p {
+          top: 25%;
+        }
+        .about .about-one .hr-line{
+            top: 70%;
+            width: 15%;
+        }
+        .about .about-two , .about .about-three {
+        width: 100%;
+        padding: 0;
+        }
+        .about .container .sub-container{
+            width: 90%;
+            flex-wrap: wrap;
+        }
+        .about .about-foure , .about .about-five {
+        width: 50%;
+        border-bottom: 0.1px dotted rgba(108,117,125,0.25);
+        }
+        .about .about-six , .about .about-seven{
+         width: 50%;
+        border-top: 0.1px dotted rgba(108,117,125,0.25);
+        margin-top: 0;
+        }
+        .about .about-six{
+        border-left: none;
+        }
+        .about .sub-container .numb-hed{
+        font-size: 2.5rem;
+        }
+    
+        .services .container{
+            width: 80%;
+            flex-direction: column;
+            margin: 3.125rem auto;
+            }
+        .services .about-one{
+            width: 100%;
+        }
+        .services .about-one h2 {
+            font-size: 6rem;
+        }
+        .services .about-one p {
+          top: 25%;
+        }
+        .services .about-one .hr-line{
+            top: 70%;
+            width: 15%;
+        }
+        .services .container .itemx {
+            width: 100%;
+            justify-content: space-between;
+        }
+        .services .container .itemx .item-icon{
+        width: 80px;
+        height: 70px;
+        }
+        .services .container .itemx .item-data{
+            width: 82%;
+        }
+    
+        .summary .container{
+            width: 80%;
+            flex-direction: column;
+            margin: 3.125rem auto;
+        
+         }
+        .summary .about-one{
+            width: 100%;
+        }
+        .summary .about-one h2 {
+            font-size: 6rem;
+        }
+        .summary .about-one p {
+          top: 25%;
+        }
+        .summary .about-one .hr-line{
+            top: 70%;
+            width: 15%;
+        }
+        .summary .container .edu-exp{
+        
+            flex-direction: column;
+        }
+        .summary .container .resm-edu , .summary .container .resm-exp{
+            width: 100%;
+        }
+        .summary .container .skills{
+            flex-direction: column;
+        }
+        .summary .container .skills .skill-list {
+            width: 100%;
+        
+        }
+    
+    
+        .portfolio .container{
+            width: 80%;
+            flex-direction: column;
+            margin: 3.125rem auto;
+        
+         }
+        .portfolio .about-one{
+            width: 100%;
+        }
+        .portfolio .about-one h2 {
+            font-size: 6rem;
+        }
+        .portfolio .about-one p {
+          top: 25%;
+        }
+        .portfolio .about-one .hr-line{
+            top: 70%;
+            width: 16%;
+        }
+        
+        .portfolio .container .work .workx{
+            width: 47%;
+        }
+     
+        .portfolio .container .work .work-three{
+            flex-direction: row;
+            flex-wrap: wrap;
+            width: 100%;
+            justify-content: space-around;
+        }
+        .portfolio .container .work .work-three .img-name{
+            width: 44%;;
+        }
+        .portfolio .container .work .work-one .img-nd{
+      flex-grow: 10;
+        }
+        .portfolio .container .work .work-one .img-nd img{
+        height: 100% ;  
+      }
+    
+      .client .container{
+        width: 80%;
+        flex-direction: column;
+        margin: 3.125rem auto;
+    
+     }
+    .client .about-one{
+        width: 100%;
+    }
+    .client .about-one h2 {
+        font-size: 6rem;
+    }
+    .client .about-one p {
+      top: 25%;
+    }
+    .client .about-one .hr-line{
+        top: 70%;
+        width: 16%;
+    }
+    
+      .client .container .client-op .clientx{
+        width: 100%;
+    }
+    .client .container .client-op .client-two{
+    display: none;
+    }
+    .client .container .circle{
+        width: 110px;
+        
+    }
+    .client .container .circle .gy-none {
+        display: block;
+        transform: translateY(0%);
+    }
+    
+    
+    
+    .contact .container{
+        width: 80%;
+        flex-direction: column;
+        margin: 3.125rem auto;
+    
+     }
+    .contact .about-one{
+        width: 100%;
+    }
+    .contact .about-one h2 {
+        font-size: 6rem;
+    }
+    .contact .about-one p {
+      top: 25%;
+    }
+    .contact .about-one .hr-line{
+        top: 70%;
+        width: 16%;
+    }
+    .contact .container .contact-way .address{
+        width: 50%;
+        order: 1;
+        margin: auto;
+        text-align: center;
+        }
+        .contact .container .contact-way .send-form{
+        width: 100%;
+        order:0 ;
+        text-align: center;
+        }
+        .contact .container .contact-way .send-form .in-text{
+            width: 100%;
+        }
+        .contact .container .contact-way .send-form .e-name{
+        margin-top: 1.5rem;
+        }
+        .contact-way .address ul{
+        margin: 0rem auto auto;
+        }
+        .copy-end .container {
+            width: 80%;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-around;
+        }
+        .copy-end .container .right {
+            width: 100%;
+            margin-bottom: 1rem;
+            text-align: center;
+           
+        }
+        .copy-end .container .policy {
+            width: 100%;
+        justify-content: center;
+        }
+        .copy-end .container .policy .col-bord{
+            height: 20px;
+        }
+    
+    }
+    /* **************************** */
+    @media screen and (min-width: 768px) and (max-width: 991.98px) { 
+    
+        .nav-bar .nav-list{
+            display: none;
+        }
+        .super-main .container .main h2{
+            font-size: 3rem;
+        
+        }
+        .about .container{
+            width: 80%;
+            flex-direction: column;
+            }
+        .about .about-one{
+            width: 100%;
+        }
+        .about .about-one h2 {
+            font-size: 6rem;
+        }
+        .about .about-one p {
+          top: 25%;
+        }
+        .about .about-one .hr-line{
+            top: 70%;
+            width: 15%;
+        }
+        .about .about-two , .about .about-three {
+        width: 100%;
+        padding: 0;
+        }
+        .about .container .sub-container{
+            width: 100%;
+        }
+        
+        .about .sub-container .numb-hed{
+        font-size: 2.5rem;
+        font-weight: 600;
+        }
+    
+        .services .container{
+            width: 85%;
+            
+            }
+        .services .about-one{
+            width: 100%;
+        }
+        .services .about-one h2 {
+            font-size: 6rem;
+        }
+        .services .about-one p {
+          top: 25%;
+        }
+        .services .about-one .hr-line{
+            top: 70%;
+            width: 15%;
+        }
+            
+        .services .container .itemx .item-data{
+            width: 70%;
+            /* background-color: yellow; */
+        }
+    
+        .summary .container{
+            width: 80%;
+            flex-direction: column;
+            margin: 3.125rem auto;
+        
+         }
+         .summary .about-one{
+            width: 100%;
+        }
+        .summary .about-one h2 {
+            font-size: 7rem;
+        }
+        .summary .about-one p {
+          top: 25%;
+        }
+        .summary .about-one .hr-line{
+            top: 70%;
+            width: 15%;
+        }
+        .summary .container .resm-edu , .summary .container .resm-exp{
+            width: 46%;
+        }
+        .summary .container .skills .skill-list {
+            width: 46%;        
+        }
+    
+    
+        .portfolio .container{
+            width: 80%;
+            flex-direction: column;
+            margin: 3.125rem auto;
+        
+         }
+         .portfolio .about-one{
+            width: 100%;
+        }
+        .portfolio .about-one h2 {
+            font-size: 7rem;
+        }
+        .portfolio .about-one p {
+          top: 30%;
+        }
+        .portfolio .about-one .hr-line{
+            top: 70%;
+            width: 15%;
+        }
+    
+        .portfolio .container .work .workx{
+            width: 47%;
+        }
+     
+        .portfolio .container .work .work-three{
+            flex-direction: row;
+            flex-wrap: wrap;
+            width: 100%;
+            justify-content: space-around;
+        }
+        .portfolio .container .work .work-three .img-name{
+            width: 44%;;
+        }
+        .portfolio .container .work .work-one .img-nd{
+      flex-grow: 10;
+        }
+        .portfolio .container .work .work-one .img-nd img{
+        height: 100% ;  
+      }
+    
+    
+    
+      .client .container{
+        width: 80%;
+        flex-direction: column;
+        margin: 3.125rem auto;
+    
+     }
+     .client .about-one{
+        width: 100%;
+    }
+    .client .about-one h2 {
+        font-size: 7rem;
+    }
+    .client .about-one p {
+      top: 30%;
+    }
+    .client .about-one .hr-line{
+        top: 70%;
+        width: 15%;
+    }
+    
+    
+      .client .container .client-op .clientx{
+        width: 100%;
+    }
+    .client .container .client-op .client-two{
+    display: none;
+    }
+    .client .container .circle{
+        width: 110px;
+        
+    }
+    .client .container .circle .gy-none {
+        display: block;
+        transform: translateY(0%);
+    }
+    
+    .contact .container{
+        width: 85%;
+        flex-direction: column;
+        margin: 3.125rem auto;
+    
+     }
+     .contact .about-one{
+        width: 100%;
+    }
+    .contact .about-one h2 {
+        font-size: 7rem;
+    }
+    .contact .about-one p {
+      top: 30%;
+    }
+    .contact .about-one .hr-line{
+        top: 70%;
+        width: 15%;
+    }
+    .contact .container .contact-way .send-form .in-text{
+        width: 100%;
+    }
+    .contact .container .contact-way .send-form .e-name{
+    margin-top: 1.5rem;
+    }
+    .contact .container .contact-way .address{
+        width: 30%;
+       
+        }
+        .contact .container .contact-way .send-form{
+        width: 65%;
+        
+        }
+    
+        .copy-end .container {
+            width: 80%;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-around;
+        }
+        .copy-end .container .right {
+            width: 100%;
+            margin-bottom: 1rem;
+            text-align: center;
+           
+        }
+        .copy-end .container .policy {
+            width: 100%;
+        justify-content: center;
+        }
+    
+        .copy-end .container .policy .col-bord{
+            height: 20px;
+        }
+    
+    }
+    /* ********************************* */
+    @media screen and (min-width: 992px) and (max-width: 1199.98px) {
+    
+        .nav-bar .nav-list{
+            width: 50%;
+        }
+        .nav-bar .div-space{
+            width: 10%;
+        }
+        .about .container{
+            width: 88%;
+        }
+       
+        .about .about-one h2 {
+            font-size: 7rem;
+        }
+        .about .about-one p {
+          top: 30%;
+        }
+        .about .about-one .hr-line{
+            top: 70%;
+            width: 15%;
+        }
+       
+        .about .container .sub-container{
+            width: 100%;
+        }
+      
+        .about .sub-container .numb-hed{
+        font-size: 2.5rem;
+        font-weight: 600;
+        }
+    
+        .services .container{
+            width: 88%;
+        }
+       
+        .services .about-one h2 {
+            font-size: 7rem;
+        }
+        .services .about-one p {
+          top: 30%;
+        }
+        .services .about-one .hr-line{
+            top: 70%;
+            width: 15%;
+        }
+        .services .container .itemx .item-data{
+            width: 72%;
+            /* background-color: yellow; */
+        }
+    
+        .summary .container{
+            width: 88%;
+        }
+       
+        .summary .about-one h2 {
+            font-size: 7rem;
+        }
+        .summary .about-one p {
+          top: 30%;
+        }
+        .summary .about-one .hr-line{
+            top: 70%;
+            width: 15%;
+        }
+        .summary .container .resm-edu , .summary .container .resm-exp{
+            width: 47.3%;
+        }
+        .summary .container .skills .skill-list {
+            width: 47.3%;        
+        }
+    
+    
+        .portfolio .container{
+            width: 88%;
+        }
+       
+        .portfolio .about-one h2 {
+            font-size: 7rem;
+        }
+        .portfolio .about-one p {
+          top: 30%;
+        }
+        .portfolio .about-one .hr-line{
+            top: 70%;
+            width: 15%;
+        }
+    
+    
+        .client .container{
+            width: 88%;
+        }
+       
+        .client .about-one h2 {
+            font-size: 7rem;
+        }
+        .client .about-one p {
+          top: 30%;
+        }
+        .client .about-one .hr-line{
+            top: 70%;
+            width: 15%;
+        }
+        .contact .container{
+            width: 88%;
+        }
+       
+        .contact .about-one h2 {
+            font-size: 7rem;
+        }
+        .contact .about-one p {
+          top: 30%;
+        }
+        .contact .about-one .hr-line{
+            top: 70%;
+            width: 15%;
+        }
+    
+        .copy-end .container {
+            width: 88%;
+            
+        }
+        .copy-end .container .right {
+            width: 45%;
+            
+           
+        }
+        .copy-end .container .policy {
+            width: 35%;
+            justify-content: flex-end;
+        }
+    
+    }
+    /* ******************************** */
+    @media  screen and (min-width:1200px) and (max-width:1750px) {
+    
+        .nav-bar .nav-list{
+            width: 40%;
+        }
+    
+        .about .container{
+            width: 88%;
+        }
+       
+        .about .about-one .hr-line{
+            top: 67%;
+            width: 10%;
+        } 
+       
+        .about .container .sub-container{
+            width: 100%;
+        }
+      
+        .services .container{
+            width: 88%;
+        }
+       
+        .services .about-one .hr-line{
+            top: 67%;
+            width: 10%;
+        } 
+        .services .container .itemx .item-data{
+            width: 80%;
+            /* background-color: yellow; */
+        }
+    
+        .summary .container{
+            width: 88%;
+        }
+       
+        .summary .about-one .hr-line{
+            top: 67%;
+            width: 10%;
+        } 
+        
+        .portfolio .container{
+            width: 88%;
+        }
+       
+        .portfolio .about-one .hr-line{
+            top: 67%;
+            width: 10%;
+        } 
+    
+        .client .container{
+            width: 88%;
+        }
+       
+        .client .about-one .hr-line{
+            top: 67%;
+            width: 10%;
+        } 
+        .contact .container{
+            width: 88%;
+        }
+       
+        .contact .about-one .hr-line{
+            top: 67%;
+            width: 10%;
+        } 
+    
+        .copy-end .container {
+            width: 88%;
+            
+        }
+        .copy-end .container .right {
+            width: 45%;
+            
+           
+        }
+        .copy-end .container .policy {
+            width: 35%;
+            justify-content: flex-end;
+        }
+    
+    
+    }
